@@ -1,9 +1,6 @@
 # Data-Scraping-and-Analysis-from-Wikipedia-Webpage
 Data scraping and data analysis project with Python (beautifulsoup, pandas) and ms excel. 
 
-# Data-Scraping-and-Analysis-from-Wikipedia-Webpage
-Data scraping and data analysis project with Python (beautifulsoup, pandas) and ms excel. 
-
 - The first file is Best Selling English Book Analysis With Python and Ms Excel, this is an excel file containing a final product of this project, the idea is simply to get insight of what genre of English books which has best selling predicate based on its sum of approximate sales information from wikipedia. 
 
 - The second file is, wiki.py, it's a simple program created to retrieve and filtered the data needed from wikipedia webpage
